@@ -1,0 +1,85 @@
+#fm{
+    height: 500px;
+    /* border: 2px solid red; */
+    margin-top: 50px;
+}
+.fm1{
+    font-size: 2.0em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    /* text-align: center; */
+    margin-left: 270px;
+    width: 22em;
+}
+.fields{
+    /* border: 2px solid blue; */
+    margin-left: 450px;
+    margin-bottom: 70px;
+}
+.half{
+    display: inline-flex;
+    font-size: 1.4em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    /* border: 2px solid burlywood; */
+    margin: -1.5rem 0 2rem 0;
+    gap:10px ;
+}
+
+.field{
+    font-size: 1.4em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    /* padding: 1.5rem 0 0 1.5rem; */
+}
+.half1{
+    display: inline-flex;
+    font-size: 1.4em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    line-height: 3.75em;
+}
+
+#action{
+    /* margin-top: 70px; */
+    /* padding-bottom: 50px; */
+    position: absolute;
+    top: 9620px;
+    left: 500px;
+    margin-top: -60px;
+    border-bottom-left-radius: 2px solid;
+}
+.t1{
+    height: 600px;
+    /* border: 2px solid red; */
+    margin-top: 100px;
+}
+.tl1{
+    font-size: 2.0em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    /* text-align: center; */
+    margin-left: 270px;
+    width: 22em;
+}
+.tablet{
+    /* border: 2px solid red; */
+    position: absolute;
+    left: 470px;
+    width: 40%;
+    line-height: 2.6em;
+    border: solid 1px;
+    border-left: 0;
+    border-right: 0;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-color: rgba(0, 0, 0, 0.2);
+}
+/* .table-wrapper{
+    border-top: 2px solid rgba(0, 0, 0, 0.2);
+}
+.tbb{
+    /* border-color: rgba(0, 0, 0, 0.2); */
+    /* border-top: 2px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2); */
+
+
